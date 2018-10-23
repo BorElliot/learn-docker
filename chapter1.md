@@ -16,6 +16,6 @@
 
 8. systemctl enable docker
 
-9. 测试 docker run --name webserver -d -p 9090:80 nginx
+9. 测试 docker run --rm --name webserver -d -p 80:80 nginx
 
 10. 安装完成后，需要把当前用户添加到用户组才能不以root身份运行 sudo usermod -aG docker ec2-user
