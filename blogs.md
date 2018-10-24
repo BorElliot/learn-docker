@@ -8,3 +8,18 @@
 
 ## golang docker
 [https://blog.golang.org/docker](https://blog.golang.org/docker)
+
+## Dockfile
+[https://segmentfault.com/a/1190000007652344](https://segmentfault.com/a/1190000007652344)
+
+
+
+
+## 博客学习
+
+[five-developer-blogs-to-follow](https://www.ctl.io/developers/blog/post/five-developer-blogs-to-follow)
+
+[codesimplicity](https://www.codesimplicity.com/)
+
+[codinghorror](https://blog.codinghorror.com/)
+
